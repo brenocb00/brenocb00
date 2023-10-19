@@ -1,5 +1,5 @@
 <p>
-EN | <a href="https://github.com/natharaujos/brenocb00/blob/main/README-ptbr.md">PT</a>
+EN | <a href="https://github.com/brenocb00/brenocb00/blob/main/README-ptbr.md">PT</a>
 </p>
 
 ### Hi there 👋
@@ -18,9 +18,6 @@ EN | <a href="https://github.com/natharaujos/brenocb00/blob/main/README-ptbr.md"
   <img align="left" alt="E-mail" width="25px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
 </a>
 
-<!-- <a target="_blank" href="https://www.instagram.com/nathan.araujos">
-  <img align="left" alt="Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />
-</a> -->
 
 <br>
 
